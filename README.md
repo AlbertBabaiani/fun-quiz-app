@@ -10,4 +10,6 @@ A lightweight and interactive quiz application that tests your knowledge! The ap
 
 - CSS3
 
+- SCSS / SASS
+
 - Vanilla JavaScript
